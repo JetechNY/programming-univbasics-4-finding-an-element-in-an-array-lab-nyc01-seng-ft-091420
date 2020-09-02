@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
-  array.include?.split(value_to_find)
+  array.split(value_to_find)
 
 end
